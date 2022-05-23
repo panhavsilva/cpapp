@@ -1,6 +1,7 @@
 {
   "name": "cpapp",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A simple CAP project.",
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
@@ -57,4 +58,21 @@
   "sapux": [
     "app/risks"
   ]
+=======
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panhavsilva/cpapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panhavsilva/cpapp/issues"
+  },
+  "homepage": "https://github.com/panhavsilva/cpapp#readme"
+>>>>>>> a2e41cf9e9da8f0f23befdc91a1c1d19efed3ceb
 }
